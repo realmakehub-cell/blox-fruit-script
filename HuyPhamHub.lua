@@ -36,11 +36,11 @@ local response2 = game:HttpGet("https://github.com/dawid-scripts/Fluent/releases
 local Fluent = loadstring(response2)()
 
 local Window = Fluent:CreateWindow({
-	Title = "Simple Hub",
+	Title = "Huy Pham Hub",
 	Acrylic = true,
 	MinimizeKey = Enum.KeyCode.LeftControl,
 	Size = UDim2.fromOffset(580, 460),
-	SubTitle = "discord.gg/pKS6qzcaqB",
+	SubTitle = "https://discord.gg/9KbQQXt8F",
 	TabWidth = 160,
 	Theme = "Light"
 })
